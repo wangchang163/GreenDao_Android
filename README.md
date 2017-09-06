@@ -159,5 +159,5 @@
  
  效果：
  
- ![image]()
+ ![image](https://github.com/wangchang163/GreenDao_Android/blob/master/image/greendao.gif)
  
